@@ -1,3 +1,6 @@
+import React from "react";
+import  ReactDOM  from "react-dom/client";
+
 /**** 
  * 
  *   <div id ="root">
@@ -21,7 +24,7 @@
 
 
 
-/**** 
+/*****
  * 
  * 
  *   <div id ="parent">
@@ -31,7 +34,9 @@
  *      </div>
  * 
  * 
-*/
+*
+*
+/
 
 
 // const heading=React.createElement("h1", {}, "I'm h1 tag");
